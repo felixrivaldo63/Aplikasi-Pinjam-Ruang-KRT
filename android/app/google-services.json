@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633495330328",
+    "project_id": "pinjamruangkrt",
+    "storage_bucket": "pinjamruangkrt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633495330328:android:efb9a1e853d169b386ad6d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_krt_ruang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633495330328-0c4er87s16mltrtl3rdk05rm50381hqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqyMDay5Bq4CFXI42xV5vl-xMWxiHcoJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633495330328-0c4er87s16mltrtl3rdk05rm50381hqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
